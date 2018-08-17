@@ -26,6 +26,7 @@ gem 'foundation-rails'
 gem 'high_voltage'
 gem 'mysql2'
 gem 'simple_form'
+gem "font-awesome-rails"
 group :development do
   gem 'better_errors'
   gem 'rails_layout'
